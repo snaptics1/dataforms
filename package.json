@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ag-grid-community/core": "^32.3.3",
+    "@ag-grid-community/react": "^32.3.3",
+    "ag-grid-community": "^33.1.0",
+    "ag-grid-react": "^33.1.0",
+    "apexcharts": "^4.4.0",
+    "bootstrap": "^5.3.3",
+    "mongodb": "^6.13.0",
+    "next": "15.1.7",
+    "react": "^19.0.0",
+    "react-apexcharts": "^1.7.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "react-select": "^5.10.0"
+  }
+}
